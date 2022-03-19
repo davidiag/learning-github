@@ -10,5 +10,6 @@ import Foundation
 // This is an initial test file to demonstrate adding files
 
 struct MyModel {
-    var nbame: String
+    var nbame: String = "David"
 }
+
